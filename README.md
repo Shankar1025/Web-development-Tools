@@ -23,6 +23,8 @@ https://www.zarla.com/free-logo-maker
 ## Testing:
 https://testing-library.com/
 
+## Others:
+
 https://mui.com/material-ui/
 
 https://html5boilerplate.com/
