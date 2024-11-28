@@ -29,6 +29,9 @@ https://www.builder.io/m/design-to-code
 ## Testing:
 https://testing-library.com/
 
+## Tools for react
+https://moti.fyi/
+
 ## Others:
 
 https://mui.com/material-ui/
