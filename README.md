@@ -29,7 +29,7 @@ https://www.builder.io/m/design-to-code
 
 ## Testing:
 https://testing-library.com/
-https://www.phind.com
+https://www.phind.com/
 
 ## Tools for react
 https://moti.fyi/
